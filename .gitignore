@@ -1,6 +1,6 @@
 node_modules/
 pgdata/
 
-src/data-source.ts
+src/database/data-source.ts
 
 .env
